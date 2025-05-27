@@ -54,13 +54,6 @@ Después:
 ├── Programación  
 │   └── codigo.py  
 ```
-
----
-
-## ¿Por qué este proyecto?
-
-Un proyecto simple, útil y elegante para empezar con Python y automatización de tareas. Ideal para incluir en tu portafolio si estás comenzando como programador.
-
 ---
 
 ## Autor
